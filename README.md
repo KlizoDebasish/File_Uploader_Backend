@@ -1,5 +1,8 @@
 # Backend CRUD API
 
+## Documentation
+https://docs.google.com/document/d/1Y9roWltXR171xZiXBBXj52eyXLDxerSO2arWnzNoXPA/edit?usp=sharing
+
 This project is a simple backend API that implements basic CRUD operations (Create, Read, Update, Delete) for managing resources, such as products, users, or any data. It uses Node.js with Express.js and MongoDB (or any other database of choice).
 
 ## Features
